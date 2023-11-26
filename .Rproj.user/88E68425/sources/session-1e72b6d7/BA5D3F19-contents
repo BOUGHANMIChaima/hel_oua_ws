@@ -1,0 +1,55 @@
+---
+title: "Pour une Stratégie Nationale pour la production d'indicateurs des VFF à partir des Registres Administratifs"
+authors:
+- admin
+date: "2018-09-07T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2018-09-07T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["livre"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Editions du CREDIF"
+publication_short: ""
+
+abstract: Après une évaluation de l'état des lieux de la mesure des violences faites aux femmes (VFF) en Tunisie et des structures qui en ont la charge ainsi que la priorisation d’un certain nombre d’indicateurs sur les VFF, à construire à partir des registres administratifs, cinq ateliers restreints ont été organisés par le CREDIF, avec l'appui de l'UNFPA et de l'Union Européenne, pour mettre en œuvre une stratégie nationale pour la production régulière et périodique d’indicateurs spécifiques des VFF en Tunisie. Ces ateliers ont regroupé les différents producteurs de statistiques sur la violence, à savoir, tous les ministères susceptibles de prendre en charge les femmes victimes de violence ainsi que l’Institut National de la Statistique. Ces ateliers de réflexion ont permis de poser les premières pierres pour l’échafaudage d’une infrastructure hiérarchisée de collecte, de traitement et d’analyse des données sur les VFF, à partir de registres administratifs. Une liste d’indicateurs prioritaires a été établie et des fiches techniques par indicateur ont été conçues. Un intérêt particulier a été accordé à l’ensemble des procédures, en amont de la collecte, de définition des concepts et de construction d’une nomenclature des VFF spécifique à la société tunisienne. Les ateliers ont, en outre, permis, après une identification de toutes les entités de recueil des données individuelles sur les VFF, de chiffrer certains indicateurs de VFF pour 2016. Le présent rapport expose, à la fois, les résultats obtenus lors des travaux et les recommandations pour la réussite de ce programme.
+
+tags:
+- Statistiques
+- Indicateurs des VFF
+- Registres administratifs
+featured: false
+
+links:
+url_source: 'https://www.academia.edu/36590594/Pour_une_Strat%C3%A9gie_Nationale_pour_la_production_dindicateurs_des_VFF_%C3%A0_partir_des_Registres_Administratifs'
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'aperçu du livre: [Academia](https://www.academia.edu/36590594/Pour_une_Strat%C3%A9gie_Nationale_pour_la_production_dindicateurs_des_VFF_%C3%A0_partir_des_Registres_Administratifs)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
+
+

@@ -1,0 +1,53 @@
+---
+title: "Graphical interaction models to extract predictive risk factors of the cost of managing stroke in Tunisia"
+authors:
+- admin
+- co-auteurs
+author_notes:
+- "ICCMA 2013, Sousse"
+date: "2013-01-01T00:00:00Z"
+doi: ""
+
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+
+abstract: Managing stroke is a real public health problem. This study has mainly two purposes.First to evaluate the medical cost of managing this disease and to identify risk factors that influence its variation in Tunisia. We have then used a prospective study of 630 patients hospitalized for stroke in 2010 at the National Institute of Neurology of Tunis. We have assessed three different kinds of costs ; in-hospital, post-hospitalization and annual costs. Afterward we have noticed huge variations in these different costs. We have then used an unsupervised clustering algorithm called the EM-algorithm to cluster the patients according to each kind of cost. We have obtained homogenous cost-clusters where each type of cost seems to be sampled from a normal distribution. Our second purpose was to identify the factors that make these costs high. We have then used a statistical technic called graphical interaction models. We mainly assume that the variables composing the data are jointly sampled from a conditional Gaussian distribution and where the interactions between the variables can be represented by an undirected graph where the vertices are the variables and where any separation statement implies a conditional independence between the concerned variables according to a specific protocol. Once these graphs are estimated we are able to determine direct and undirect factors that influence the increasing of the disease cost.
+# Summary. An optional shortened abstract.
+summary: Managing stroke is a real public health problem. This study has mainly two purposes. First to evaluate the medical cost of managing this disease and to identify risk factors that influence its variation in Tunisia.
+
+tags:
+- Graphical models
+- Diseases
+- Diabetes
+- Gaussian distribution
+- Predictive models
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_source: 'https://www.academia.edu/5779963/Predictive_risk_factors_for_increased_direct_medical_cost_of_stroke_in_Tunisia'
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'apperçu article: [**IEEE**](https://ieeexplore.ieee.org/document/6506162/keywords#keywords)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+---
+

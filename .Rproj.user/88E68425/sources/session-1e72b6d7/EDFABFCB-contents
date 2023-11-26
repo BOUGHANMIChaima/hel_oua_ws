@@ -1,0 +1,64 @@
+---
+title: "Ethique Statistique - Chapitre 1 : Les règles de conduite en Statistique"
+authors:
+- admin
+date: "2016-09-01T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2016-09-01T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+abstract: La déontologie est
+ ce qui règle les rapports d’une profession avec son extérieur.
+ La statistique est une discipline appliquée, dérivée des mathématiques. A ce titre, elle
+ s’associe à une déontologie autant que toute autre discipline scientiﬁque 
+ (probité, souci de rigueur, ...). Mais c’est en
+ fonction du domaine d’application
+ que des problèmes déontologiques apparaissent. L’activité statistique intervient soit comme
+ auxiliaire de disciplines ou se posent des questions déontologiques 
+ (recherche médicale, audit ﬁnancier, investigation policière, etc.) soit,
+ de façon plus autonome, dans l’analyse de la socièté et de l’économie et dans l’information.
+tags:
+- Ethics
+- Statistics
+- Deontology
+- Ethics in Statistics
+featured: false
+
+links:
+url_source: 'https://www.academia.edu/16408402/Ethique_Statistique_Chap1_Les_r%C3%A8gles_de_conduite_en_Statistique'
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'apperçu cours: [Academia](https://www.academia.edu/16408402/Ethique_Statistique_Chap1_Les_r%C3%A8gles_de_conduite_en_Statistique)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
+
+

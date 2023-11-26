@@ -1,0 +1,53 @@
+---
+title: "Former des ingénieurs statisticiens en Tunisie, Pour quel devenir ?"
+authors:
+- admin
+- co-auteur
+date: "2015-01-05T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2015-01-05T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: "CFIES’2015, Bordeaux"
+publication_short: ""
+
+abstract: L'ESSAI, unique institution tunisienne formant des ingénieurs statisticiens, était principalement destinée à pourvoir la statistique publique en ingénieurs statisticiens. Mais les recrutements du système public ne résorbent plus l’offre d’ingénieurs statisticiens. Parallèlement, les diplômés ont trouvé de nouvelles opportunités d’embauche, dans le secteur privé, en Tunisie et ailleurs et la vocation de l’école s’en est vue transformée. Cette nouvelle vocation devra être au diapason des nouveaux enjeux économiques et l’émergence de nouveaux métiers ; l’ESSAI doit offrir des spécialités telles que cloud computing, big data et datamining. Au cours des trois dernières années, l’ESSAI s’est engagée dans une politique d’ouverture effective sur le monde de l’entreprise et sur le plan international. Comment se sont répercutés ces efforts sur l’embauche de nos ingénieurs statisticiens ? Quels secteurs ont le plus recruté nos diplômés ? Vers quelles spécialités statistiques se sont-ils orientés ? Le but de ce travail sera de répondre à ces questions à partir d’une enquête effectuée, en novembre 2014, auprès de nos diplômés.
+tags:
+- Teaching statistics
+featured: false
+
+links:
+url_source: 'https://www.academia.edu/10363887/Former_des_ing%C3%A9nieurs_statisticiens_en_Tunisie_Pour_quel_devenir_'
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'aperçu article: [Academia](https://www.academia.edu/10363887/Former_des_ing%C3%A9nieurs_statisticiens_en_Tunisie_Pour_quel_devenir_)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
+
+

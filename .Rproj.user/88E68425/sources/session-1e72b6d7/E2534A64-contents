@@ -1,0 +1,54 @@
+---
+title: "Les violences fondées sur le genre dans la rue, Bulletin de l'OGEC n°2, Publications du CREDIF"
+authors:
+- admin
+date: "2016-09-07T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2016-09-07T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Editions du CREDIF"
+publication_short: ""
+
+abstract: La rue, un territoire assigné aux hommes, exclusivement pour les hommes, ou les femmes ne peuvent espérer plus qu'un droit de passage, un droit souvent bafoué à travers des actes de violence, lui rappelant quéelle n y est pas la bienvenue.
+tags:
+- Violence fondée sur le genre dans la rue
+- Statistique
+- Sondage
+featured: false
+
+links:
+url_source: 'https://www.academia.edu/29651247/Les_violences_fond%C3%A9es_sur_le_genre_dans_la_rue_Bulletin_de_lOGEC_n_2_Publications_du_CREDIF'
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'aperçu article: [Academia](https://www.academia.edu/29651247/Les_violences_fond%C3%A9es_sur_le_genre_dans_la_rue_Bulletin_de_lOGEC_n_2_Publications_du_CREDIF)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
+
+
