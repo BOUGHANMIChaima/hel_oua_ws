@@ -21,7 +21,7 @@ highlight_name: true
 
 # Interests to show in About widget
 interests:
-- Statistique et méthodes quantitatives
+- Statistique et Modèles linéaires
 - Enquêtes et sondages 
 - Statistiques de genre et violence faite aux femmes
 - Formation et consulting
