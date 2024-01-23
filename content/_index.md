@@ -229,10 +229,12 @@ sections:
     - company: TELESERVICES Groupe Union Française de Papeterie
       company_logo: 
       location: Paris
-      title: Chargée de Formation & de Recrutement d'Ingénieurs Technico-commerciaux    
+      title: Directrice commerciale    
       company_url: 
       date_start: "1988-01-01"
       date_end: '1992-01-01'
+      description: |2-
+        * Chargée de Formation & de Recrutement d'Ingénieurs Technico-commerciaux
     - company: AFOS-PME
       company_logo: 
       location: Paris
