@@ -53,9 +53,13 @@ sections:
           icon: r-project
           icon_pack: fab
         - name: SAS
-          description: 75%
+          description: 50%
           icon: s
           icon_pack: fab
+        - name: Modèles linéaires
+          description: 95%
+          icon: chart-gantt
+          icon_pack: fas
         - name: Statistiques inférentielles & méthodes quantitatives
           description: 95%
           icon: chart-line
