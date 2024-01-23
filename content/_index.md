@@ -109,17 +109,22 @@ sections:
       company_url: "https://121polling.tn/en/"
       date_start: "2020-07-01"
       description: |2-
-         * Conseil, suivi et supervision d’enquêtes.
-         * Analyse des résultats et reporting.
+        * Conseil, suivi et supervision d’enquêtes.
+        * Analyse des résultats et reporting.
       location: Tunisie
       title: Experte senior en statistique
     - company: Ecole supérieure de la statistique et de l'analyse de l'information
       company_logo: essai
-      company_url: "https://www.meetup.com/fr-FR/rladies-paris/"
+      company_url: "https://https://www.essai.rnu.tn/"
       date_end: "2022-12-31"
       date_start: "2001-09-01"
       description: |2-
          * Chargée de cours de **Statistiques descriptives**, Statistiques Mathémathiques, **Théorie des Sondages**, Ethique statistique, méthodes d'**Enquêtes** et Statistiques de **genre**.
+         * Porte parole de l'ESSAI
+         * Présidente du conseil de classe
+         * Membre du conseil scientifique
+         * Présidente / Membre de jury pour les soutenances de fin d'année
+         * Encadrement des élèves ingénieurs durant leurs projets de fin d'études (PFE) / projets de fin d'années (PFA)
       location: Tunisie
       title: Enseignante (Assistante en Méthodes Quantitatives)
     - company: UNFPA
@@ -127,6 +132,8 @@ sections:
       company_url: "https://www.unfpa.org/fr"
       date_start: "2015-07-01"
       description: |2-
+         * Conception et supervision d'enquêtes
+         * Formation en statistique / statistique de genre
       location: Tunisia
       title: Experte senior en statistiques
       
