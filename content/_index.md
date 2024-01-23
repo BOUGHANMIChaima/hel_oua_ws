@@ -125,8 +125,7 @@ sections:
     - company: UNFPA
       company_logo: unfpa
       company_url: "https://www.unfpa.org/fr"
-      date_start: "2022-07-01"
-      date_end: '2022-07-31'
+      date_start: "2015-07-01"
       description: |2-
       location: Tunisia
       title: Experte senior en statistiques
@@ -223,7 +222,7 @@ sections:
     - company: TELESERVICES Groupe Union Française de Papeterie
       company_logo: 
       location: Paris
-      title: Chargée de Formation & de Recrutement d'Ingénieurs Technicocommerciaux    
+      title: Chargée de Formation & de Recrutement d'Ingénieurs Technico-commerciaux    
       company_url: 
       date_start: "1988-01-01"
       date_end: '1992-01-01'
