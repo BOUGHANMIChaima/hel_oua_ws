@@ -28,14 +28,16 @@ interests:
 
 
 # Full name (for SEO)
-first_name: Héla
-last_name: Ouaili
+first_name: HELA
+last_name: OUAILY
 
 organizations:
-# - name: ESSAI
-#   url: http://www.essai.rnu.tn/
-# - name: Ministère de l'enseignement supérieur
-#   url: http://www.mes.tn/?langue=fr
+ - name: Consulting & Freelance
+   url: http://helaouaili.netlify.app
+ - name: CREDIF
+   url: http://www.credif.org.tn/accueil-portal.aspx?_lg=fr-FR
+ - name: One to One for Research and Polling
+   url: https://121polling.tn/en/
 
 # Role/position/tagline
 role: Consultante Experte en Statistique | en Statistique de genre <br /> Statisticienne spécialisée dans les enquêtes et sondages | Universitaire | Ingénieure statisticienne économiste <br />France, Tunisie
