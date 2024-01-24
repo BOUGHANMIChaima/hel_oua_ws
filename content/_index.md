@@ -49,7 +49,7 @@ sections:
     username: admin
     items:
         - name: R 
-          description: 90%
+          description: 75%
           icon: r-project
           icon_pack: fab
         - name: SAS
