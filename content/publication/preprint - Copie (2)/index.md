@@ -19,7 +19,8 @@ publication_short: ""
 
 abstract: Les rapports de genre dans les espaces publics, et particulièrement dans les transports en communs, s'expriment à travers des pratiques visant l'éviction de la femme de son droit d'évoluer dans les espaces publics. Le présent papier expose les différents résultats issus d'une analyse focalisée sur la VBG dans les transports en commun aussi bien en termes de violence subie que de violence perçue et ce à partir d l'enquête initiée par le CREDIF et ONU femmes sur la VBG dans les espaces publics.
 tags:
-- 
+- La Violence basée sur le Genre
+- Transport publique
 featured: false
 
 links:
